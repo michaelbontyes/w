@@ -1,0 +1,133 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "c63f10f75db22e9396f71ef197bd0ea9",
+    "packages": [
+        {
+            "name": "flagshipwp/flagship-library",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/FlagshipWP/flagship-library.git",
+                "reference": "7f93cf1eb8b886505d9db206274af6fe57c22cc9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/FlagshipWP/flagship-library/zipball/7f93cf1eb8b886505d9db206274af6fe57c22cc9",
+                "reference": "7f93cf1eb8b886505d9db206274af6fe57c22cc9",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "flagship-library.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Robert Neu",
+                    "email": "rob@flagshipwp.com",
+                    "homepage": "http://flagshipwp.com"
+                }
+            ],
+            "description": "A helpful libray of functions and classes for Flagship themes.",
+            "homepage": "https://github.com/FlagshipWP/flagship-library",
+            "keywords": [
+                "wordpress"
+            ],
+            "time": "2014-10-23 06:15:39"
+        },
+        {
+            "name": "justintadlock/hybrid-core",
+            "version": "2.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/justintadlock/hybrid-core.git",
+                "reference": "e7e20a4d1aad1a17e07da23c7c04fc5947528c0b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/justintadlock/hybrid-core/zipball/e7e20a4d1aad1a17e07da23c7c04fc5947528c0b",
+                "reference": "e7e20a4d1aad1a17e07da23c7c04fc5947528c0b",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "hybrid.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Justin Tadlock",
+                    "email": "justin@justintadlock.com",
+                    "homepage": "http://justintadlock.com"
+                }
+            ],
+            "description": "Hybrid Core WordPress theme framework",
+            "homepage": "http://themehybrid.com/hybrid-core",
+            "keywords": [
+                "wordpress"
+            ],
+            "time": "2014-10-20 22:12:17"
+        },
+        {
+            "name": "zamoose/themehookalliance",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zamoose/themehookalliance.git",
+                "reference": "f4950c6343e85b105c0c78a65e90df2f1476e6c6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zamoose/themehookalliance/zipball/f4950c6343e85b105c0c78a65e90df2f1476e6c6",
+                "reference": "f4950c6343e85b105c0c78a65e90df2f1476e6c6",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "tha-theme-hooks.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Doug Stewart",
+                    "homepage": "http://literalbarrage.org"
+                }
+            ],
+            "description": "Theme Hook Alliance",
+            "homepage": "https://github.com/zamoose/themehookalliance",
+            "keywords": [
+                "wordpress"
+            ],
+            "time": "2014-09-13 04:43:40"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "flagshipwp/flagship-library": 20,
+        "zamoose/themehookalliance": 20
+    },
+    "prefer-stable": false,
+    "platform": [],
+    "platform-dev": []
+}

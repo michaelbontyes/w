@@ -1,0 +1,41 @@
+.infinite-footer {
+	display: none;
+	opacity:0;
+}
+
+#header {
+	background-image: url(http://woodd.org/wp-content/uploads/2014/11/9450305.jpg);
+	background-position: 55% center;
+	.branding {
+		background: rgba(51, 51, 51, 0.8);
+		padding: 10px;
+		border-radius: 3px;
+	}
+	.menu-button {
+		margin: 17px 10px 0;
+	}
+}
+
+.sidr {
+	.sub-menu { 
+		li {
+			a {
+				color: #D7D7D7;
+			}
+		}
+	}
+	.nav-menu {
+		li {
+			a {
+				color: #FFFFFF;
+			}
+		}
+	}
+}
+
+@media screen and (min-width: 1180px) {
+	.social-icon {
+		float: right;
+	}
+}
+
