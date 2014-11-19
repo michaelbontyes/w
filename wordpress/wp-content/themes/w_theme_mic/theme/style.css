@@ -1,0 +1,191 @@
+/*!
+Theme Name:  w_theme_mic
+Template:    w_theme/theme
+Version:     1.0.0
+Author:      Michael Bontyes
+Author URI:  http://mic.woodd.org
+Theme URI:   http://mic.woodd.org
+Description: The most advanced WordPress Starter theme ever created. Built with Hybrid Core, Theme Hook Alliance, Bourbon, and Neat.
+Tags:        white, light, one-column, two-columns, right-sidebar, responsive-layout, custom-header, custom-menu, editor-style, featured-images, 'seo-friendly', microformats, post-formats, sticky-post, translation-ready
+Text Domain: w_theme_mic
+Domain Path: /languages
+License:     GPL-2.0+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* Table of Contents
+
+	- HTML5 Reset
+		- Baseline Normalize
+		- Box Sizing
+		- Float Clearing
+	- Defaults
+		- Typography
+		- Headings
+		- Media Objects
+		- Forms
+		- Tables
+		- Lists
+		- Buttons
+	- Structure and Layout
+		- Site Containers
+		- Column Widths and Positions
+		- Column Classes
+	- Common Classes
+		- Hybrid Core
+		- Search Form
+		- Post Password Form
+		- Avatar
+		- WordPress
+		- Screen Readers
+	- Genericons
+		- Theme Icons
+	- Header
+		- Title Area
+		- Widget Area
+	- Navigation
+		- Header Navigation
+		- After Header Navigation
+		- Mobile Menu
+		- Pagination
+	- Content Area
+		- Entries
+		- Entry Meta
+		- Featured Media
+	- Comments
+	- Widgets
+		- Featured Content
+	- Sidebars
+	- Footer Widgets
+	- Footer
+	- Plugins
+		- eNews Extended
+		- Latest Tweets
+		- Gravity Forms
+		- Jetpack
+
+*/
+
+
+/*
+HTML5 Reset
+----------------------------------------------------------------------------- */
+
+
+/*
+Defaults
+----------------------------------------------------------------------------- */
+
+
+/*
+Structure and Layout
+----------------------------------------------------------------------------- */
+
+
+/*
+Common Classes
+----------------------------------------------------------------------------- */
+
+
+/*
+Genericons
+----------------------------------------------------------------------------- */
+
+
+/*
+Site Header
+----------------------------------------------------------------------------- */
+
+
+/*
+Site Navigation
+----------------------------------------------------------------------------- */
+
+
+/*
+Content Area
+----------------------------------------------------------------------------- */
+
+
+/* Comments
+----------------------------------------------------------------------------- */
+
+
+/*
+Widgets
+----------------------------------------------------------------------------- */
+
+
+/*
+Sidebars
+----------------------------------------------------------------------------- */
+
+
+/*
+Footer Widgets
+----------------------------------------------------------------------------- */
+
+
+/*
+Site Footer
+----------------------------------------------------------------------------- */
+
+
+/*
+Plugins
+----------------------------------------------------------------------------- */
+
+
+/* Gravity Forms
+--------------------------------------------- */
+
+
+/* Jetpack
+--------------------------------------------- */
+
+
+/*
+w_theme
+----------------------------------------------------------------------------- */
+
+/* line 1, ../assets/flagship/scss/w_theme_mic.scss */
+.infinite-footer {
+	display: none;
+	opacity: 0;
+}
+
+/* line 6, ../assets/flagship/scss/w_theme_mic.scss */
+#header {
+	background-image: url(http://woodd.org/wp-content/uploads/2014/11/9450305.jpg);
+	background-position: 55% center;
+}
+
+/* line 9, ../assets/flagship/scss/w_theme_mic.scss */
+#header .branding {
+	background: rgba(51, 51, 51, 0.8);
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	padding: 10px;
+}
+
+/* line 14, ../assets/flagship/scss/w_theme_mic.scss */
+#header .menu-button {
+	margin: 17px 10px 0;
+}
+
+/* line 22, ../assets/flagship/scss/w_theme_mic.scss */
+.sidr .sub-menu li a {
+	color: #d7d7d7;
+}
+
+/* line 29, ../assets/flagship/scss/w_theme_mic.scss */
+.sidr .nav-menu li a {
+	color: #fff;
+}
+
+@media screen and (min-width: 1180px) {
+	/* line 37, ../assets/flagship/scss/w_theme_mic.scss */
+	.social-icon {
+		float: right;
+	}
+}
