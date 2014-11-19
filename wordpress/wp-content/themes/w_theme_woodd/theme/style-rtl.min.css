@@ -1,0 +1,15 @@
+/*!
+Theme Name:  w_theme_woodd
+Template:    w_theme/theme
+Version:     1.0.0
+Author:      Michael Bontyes
+Author URI:  http://mic.woodd.org
+Theme URI:   http://mic.woodd.org
+Description: The most advanced WordPress Starter theme ever created. Built with Hybrid Core, Theme Hook Alliance, Bourbon, and Neat.
+Tags:        white, light, one-column, two-columns, right-sidebar, responsive-layout, custom-header, custom-menu, editor-style, featured-images, 'seo-friendly', microformats, post-formats, sticky-post, translation-ready
+Text Domain: w_theme_woodd
+Domain Path: /languages
+License:     GPL-2.0+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+.infinite-footer{display:none;opacity:0}#header{background-image:url(http://woodd.org/wp-content/uploads/2014/11/9450305.jpg);background-position:45% center}#header .branding{background:rgba(51,51,51,.8);-webkit-border-radius:3px;border-radius:3px;padding:10px}#header .menu-button{margin:17px 10px 0}.sidr .sub-menu li a{color:#d7d7d7}.sidr .nav-menu li a{color:#fff}@media screen and (min-width:1180px){.social-icon{float:left}}
